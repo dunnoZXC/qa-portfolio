@@ -25,6 +25,8 @@ This repository contains my practical work in Manual QA.
 - Basic API testing
 - Basic SQL
 
+
+
 - ## Projects
 
 ### Automation Exercise - Signup/Login Testing
