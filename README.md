@@ -24,3 +24,17 @@ This repository contains my practical work in Manual QA.
 - Chrome / Firefox DevTools
 - Basic API testing
 - Basic SQL
+
+- ## Projects
+
+### Automation Exercise - Signup/Login Testing
+Manual QA testing project for Signup/Login functionality.
+
+Includes:
+- Test cases
+- Test execution results
+- Exploratory testing
+- Jira bug reports
+- Test summary
+
+[Open project](./automation-exercise-auth-testing)
